@@ -1,0 +1,21 @@
+{
+  "name": "express-app-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ermain Paul",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.6",
+    "serve-favicon": "^2.5.0"
+  }
+}
